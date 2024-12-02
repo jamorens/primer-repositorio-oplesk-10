@@ -1,2 +1,2 @@
 # primer-repositorio-oplesk-10
-# este es mi apote jose moreno
+# este es mi aporte jose moreno
